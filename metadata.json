@@ -1,0 +1,6 @@
+{
+  "name": "CareFlow Ai",
+  "description": "AI-powered patient intake and critical care hospital assistant with real-time emergency triage, multimodal intake, and clinical summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
